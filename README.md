@@ -15,18 +15,20 @@ Currently an undergrad at IIT Roorkee, exploring the intersection of **applied M
 
 ---
 
-### I’m not chasing the “best”, or the "fastest" in isolation — I care about nailing the use case and then optimizing the hell out of my solution, to get bang for the buck.
+#### I’m not chasing the “best”, or the "fastest" in isolation.
+#### I care about nailing the use case and then optimizing the hell out of my solution, to get the most bang for the buck.
 ---
 
 ## Things i work with
 
-**ml / ai stack**
-- pytorch, tensorflow, scikit-learn  
+**ml / dl stack**
+- Pytorch, scikit-learn  
 - huggingface, langchain, langgraph  
-- onnx, whisper, sentence-transformers  
+- ONNX, whisper, sentence-transformers
+- Torchvision, Spacy, NTLK, 
 
 **data & infra**
-- python, r, sql  
+- Python, R, sql  
 - numpy, pandas, scipy  
 - docker, gcp , aws
 
