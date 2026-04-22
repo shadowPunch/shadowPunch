@@ -13,7 +13,9 @@ Currently an undergrad at IIT Roorkee, exploring the intersection of **applied M
 - **Edge AI and efficient inference**
 - **Robotics & perception systems**
 
-The philosophy I believe in is that what I build doesn't need to be the best, the fastest, or the most accurate. What I need to do is to figure out the use case specifications, match it, and optimize the hell of it, to get the best bang for the buck. 
+---
+
+### I’m not chasing the “best”, or the "fastest" in isolation — I care about nailing the use case and then optimizing the hell out of my solution, to get bang for the buck.
 ---
 
 ## Things i work with
