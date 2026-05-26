@@ -25,7 +25,7 @@ Currently an undergrad at IIT Roorkee, exploring the intersection of **applied M
 - Pytorch, scikit-learn  
 - huggingface, langchain, langgraph  
 - ONNX, whisper, sentence-transformers
-- Torchvision, Spacy, NTLK, 
+- Torchvision, Spacy, NLTK
 
 **data & infra**
 - Python, R, sql  
