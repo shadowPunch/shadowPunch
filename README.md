@@ -39,40 +39,38 @@ nithish = {
 
 **ML / DL**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-2C2C2C?style=flat-square)
-![ONNX](https://img.shields.io/badge/ONNX-005EA6?style=flat-square&logo=onnx&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-4A90D9?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-natural_language-darkgreen)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)](https://huggingface.co/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)](https://www.langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-2C2C2C?style=flat-square)](https://langchain-ai.github.io/langgraph/)
+[![ONNX](https://img.shields.io/badge/ONNX-005EA6?style=flat-square&logo=onnx&logoColor=white)](https://onnx.ai/)
+[![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-4A90D9?style=flat-square)](https://sbert.net/)
+[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)](https://spacy.io/)
+[![NLTK](https://img.shields.io/badge/NLTK-natural_language-darkgreen)](https://www.nltk.org/)
 
 **Data / Infra**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/language-Julia-9558B2?logo=julia)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-OpenAI?style=social&logo=openai)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Julia](https://img.shields.io/badge/language-Julia-9558B2?logo=julia)](https://julialang.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Whisper](https://img.shields.io/badge/Whisper-OpenAI-%23412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/whisper)
 
 **Robotics / Systems**
 
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-000000?style=flat-square)
-![MAVLink](https://img.shields.io/badge/MAVLink-555555?style=flat-square)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-E07B39?style=flat-square)
-![Altium](https://img.shields.io/badge/Altium-A31F34?style=flat-square)
-
-
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square)](https://docs.ros.org/)
+[![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square)](https://gazebosim.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
+[![ArduPilot](https://img.shields.io/badge/ArduPilot-000000?style=flat-square)](https://ardupilot.org/)
+[![MAVLink](https://img.shields.io/badge/MAVLink-555555?style=flat-square)](https://mavlink.io/)
+[![Embedded](https://img.shields.io/badge/Embedded_Systems-E07B39?style=flat-square)](https://en.wikipedia.org/wiki/Embedded_system)
+[![Altium](https://img.shields.io/badge/Altium-A31F34?style=flat-square)](https://www.altium.com/)
 ---
 
 <div align="center">
