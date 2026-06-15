@@ -1,11 +1,37 @@
-# 👋 hey, i'm Nithish
+<div align="center">
 
-I like building things that *think, act, and sometimes surprise me back*.
+```
+███╗   ██╗██╗████████╗██╗  ██╗██╗███████╗██╗  ██╗
+████╗  ██║██║╚══██╔══╝██║  ██║██║██╔════╝██║  ██║
+██╔██╗ ██║██║   ██║   ███████║██║███████╗███████║
+██║╚██╗██║██║   ██║   ██╔══██║██║╚════██║██╔══██║
+██║ ╚████║██║   ██║   ██║  ██║██║███████║██║  ██║
+╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-Currently an undergrad at IIT Roorkee, exploring the intersection of **applied ML/DL, agentic AI, and robotics** — basically anything where I get to solve a problem, or make things more efficient.
+### `> building things that think, act, and sometimes surprise me back`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-ravikkumar-8491791b9/)
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nithish232005@gmail.com)
+
+</div>
 
 ---
 
+## `whoami`
+
+Second-year **Engineering Physics** undergrad at **IIT Roorkee** — building at the intersection of applied ML/DL, agentic AI, and robotics.
+
+I don't chase the "best" or the "fastest" in isolation.  
+I care about **nailing the use case** — then optimizing the hell out of it.
+
+```python
+nithish = {
+    "currently"  : "EP undergrad @ IIT Roorkee ('27)",
+    "interests"  : ["agentic AI", "edge inference", "robotics & perception", "multimodal systems"],
+    "reach me"   : "nithish232005@gmail.com"
+}
+```
 ## what i'm into
 
 - **Building end-to-end Multimodal pipelines and products**
@@ -15,53 +41,45 @@ Currently an undergrad at IIT Roorkee, exploring the intersection of **applied M
 
 ---
 
-#### I’m not chasing the “best”, or the "fastest" in isolation.
-#### I care about nailing the use case and then optimizing the hell out of my solution, to get the most bang for the buck.
----
+## `stack`
 
-## Things I work with
+**ML / DL**
 
-### ML / DL Stack
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch" /></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Yellow?style=flat" alt="Hugging Face" /></a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat" alt="LangChain" /></a>
-  <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangGraph-%232C2C2C.svg?style=flat" alt="LangGraph" /></a>
-  <a href="https://onnx.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ONNX-%23005EA6.svg?style=flat&logo=ONNX&logoColor=white" alt="ONNX" /></a>
-  <a href="https://github.com/openai/whisper" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Whisper-OpenAI-%23412991.svg?style=flat" alt="Whisper" /></a>
-  <a href="https://sbert.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sentence--Transformers-Blue?style=flat" alt="Sentence Transformers" /></a>
-  <a href="https://pytorch.org/vision/stable/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Torchvision-%23EE4C2C.svg?style=flat" alt="Torchvision" /></a>
-  <a href="https://spacy.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=flat&logo=spaCy&logoColor=white" alt="spaCy" /></a>
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NLTK-Green?style=flat" alt="NLTK" /></a>
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-2C2C2C?style=flat-square)
+![ONNX](https://img.shields.io/badge/ONNX-005EA6?style=flat-square&logo=onnx&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-4A90D9?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 
-### Data & Infra
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=R&logoColor=white" alt="R" /></a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-LightGrey?style=flat" alt="SQL" /></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=NumPy&logoColor=white" alt="NumPy" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white" alt="Pandas" /></a>
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SciPy-%238CAAE6.svg?style=flat&logo=SciPy&logoColor=white" alt="SciPy" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=Docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=Google-Cloud&logoColor=white" alt="GCP" /></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=Amazon-AWS&logoColor=white" alt="AWS" /></a>
-</p>
+**Data / Infra**
 
-### Robotics / Systems
-<p align="left">
-  <a href="https://docs.ros.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ROS2-%2322314E.svg?style=flat" alt="ROS2" /></a>
-  <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gazebo-%23FF6F00.svg?style=flat" alt="Gazebo" /></a>
-  <a href="https://mavlink.io/en/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MAVLink-Grey?style=flat" alt="MAVLink" /></a>
-  <a href="https://ardupilot.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ArduPilot-%23000000.svg?style=flat" alt="ArduPilot" /></a>
-  <a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Altium%20Designer-%23A31F34.svg?style=flat" alt="Altium Designer" /></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat&logo=OpenCV&logoColor=white" alt="OpenCV" /></a>
-  <a href="https://en.wikipedia.org/wiki/Embedded_system" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Embedded%20Systems-Orange?style=flat" alt="Embedded Systems" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF5733?style=flat-square)
+
+**Robotics / Systems**
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-000000?style=flat-square)
+![MAVLink](https://img.shields.io/badge/MAVLink-555555?style=flat-square)
+![Embedded](https://img.shields.io/badge/Embedded_Systems-E07B39?style=flat-square)
+![Altium](https://img.shields.io/badge/Altium-A31F34?style=flat-square)
+
 
 ---
 
-Feel free to explore my repos.
+<div align="center">
 
-> always open to interesting problems — especially ones that *shouldn't* work but somehow might.
+*always open to interesting problems — especially the ones that shouldn't work but somehow might.*
+
+</div>
