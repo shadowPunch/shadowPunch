@@ -1,14 +1,23 @@
-div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=52&duration=0&pause=0&color=00FF41&center=true&vCenter=true&repeat=false&width=280&height=80&lines=nrk" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=52&duration=0&pause=0&color=00FF41&center=true&vCenter=true&repeat=false&width=280&height=80&lines=nrk" alt="nrk" />
-</picture>
-### `> building things that think, act, and sometimes surprise me back`
+<div align="center">
+<svg width="200" height="70" viewBox="0 0 200 70" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="55" text-anchor="middle" font-family="monospace" font-size="52" font-weight="700" fill="#00FF41" letter-spacing="-2">nrk</text>
+</svg>
+
+  
+  ### `> building things that think, act, and sometimes surprise me back`
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-ravikkumar-8491791b9/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithish232005@gmail.com)
- 
+<br/>
+<a href="https://www.linkedin.com/in/nithish-ravikkumar-8491791b9/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:nithish232005@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Gmail" />
+</a>
+&nbsp;
+
 </div>
+
 ---
 
 ## `whoami`
