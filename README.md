@@ -47,19 +47,20 @@ nithish = {
 ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-4A90D9?style=flat-square)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![NLTK]()
+![NLTK](https://img.shields.io/badge/NLTK-natural_language-darkgreen)
 
 **Data / Infra**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![C++]()
-![R]()
+![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white)
+![Julia](https://img.shields.io/badge/language-Julia-9558B2?logo=julia)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Whisper]()
+![Whisper](https://img.shields.io/badge/Whisper-OpenAI?style=social&logo=openai)
 
 **Robotics / Systems**
 
