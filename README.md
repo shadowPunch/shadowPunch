@@ -3,10 +3,7 @@
 </h1>
 <h3><code>> building things that think, act, and sometimes surprise me back</code></h3>
  
-<br/>
-<a href="https://www.linkedin.com/in/nithish-ravikkumar-8491791b9/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-</a>
+
 &nbsp;&nbsp;
 </div>
 
@@ -26,6 +23,10 @@ nithish = {
     "reach me"   : "nithish232005@gmail.com"
 }
 ```
+<a href="https://www.linkedin.com/in/nithish-ravikkumar-8491791b9/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+</a>
+
 ## what i'm into
 
 - **Building end-to-end Multimodal pipelines and products**
