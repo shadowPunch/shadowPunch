@@ -1,9 +1,12 @@
 <div align="center">
 <h1 style="color:#00FF41; font-family:monospace; font-size:80px; font-weight:900; letter-spacing:4px;">
  
+```css
+
 nrk
 
- 
+```
+
 </h1>
 <h3><code>> building things that think, act, and sometimes surprise me back</code></h3>
  
@@ -22,7 +25,6 @@ A second year undergrad at IIT Roorkee — building at the intersection of appli
 I don't chase the "best" or the "fastest" in isolation.  
 I care about nailing the use case — then optimizing the hell out of it.
 
-- 📫 How to reach me **nithish232005@gmail.com**
   
 ```python
 nithish = {
