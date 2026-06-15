@@ -1,23 +1,22 @@
 <div align="center">
-<svg width="200" height="70" viewBox="0 0 200 70" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="55" text-anchor="middle" font-family="monospace" font-size="52" font-weight="700" fill="#00FF41" letter-spacing="-2">nrk</text>
-</svg>
-
-  
-  ### `> building things that think, act, and sometimes surprise me back`
+<h1 style="color:#00FF41; font-family:monospace; font-size:80px; font-weight:900; letter-spacing:4px;">
+```
+nrk
+```
+ 
+</h1>
+<h3><code>> building things that think, act, and sometimes surprise me back</code></h3>
  
 <br/>
-<a href="https://www.linkedin.com/in/nithish-ravikkumar-8491791b9/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/nithish-ravikkumar-8491791b9/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
 </a>
-&nbsp;
-<a href="mailto:nithish232005@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Gmail" />
+&nbsp;&nbsp;
+<a href="mailto:nithish232005@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Gmail" height="40" width="50" />
 </a>
-&nbsp;
-
+&nbsp;&nbsp;
 </div>
-
 ---
 
 ## `whoami`
