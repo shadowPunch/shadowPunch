@@ -1,11 +1,4 @@
-<div align="center">
-<h1 style="color:#00FF41; font-family:monospace; font-size:80px; font-weight:900; letter-spacing:4px;">
- 
-```html
-
-nrk
-
-```
+# Hi 👋, I'm nrk
 
 </h1>
 <h3><code>> building things that think, act, and sometimes surprise me back</code></h3>
