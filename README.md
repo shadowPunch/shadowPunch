@@ -1,33 +1,26 @@
-<div align="center">
-
-```
-███╗   ██╗██╗████████╗██╗  ██╗██╗███████╗██╗  ██╗
-████╗  ██║██║╚══██╔══╝██║  ██║██║██╔════╝██║  ██║
-██╔██╗ ██║██║   ██║   ███████║██║███████╗███████║
-██║╚██╗██║██║   ██║   ██╔══██║██║╚════██║██╔══██║
-██║ ╚████║██║   ██║   ██║  ██║██║███████║██║  ██║
-╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
-```
-
+div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=52&duration=0&pause=0&color=00FF41&center=true&vCenter=true&repeat=false&width=280&height=80&lines=nrk" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=52&duration=0&pause=0&color=00FF41&center=true&vCenter=true&repeat=false&width=280&height=80&lines=nrk" alt="nrk" />
+</picture>
 ### `> building things that think, act, and sometimes surprise me back`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-ravikkumar-8491791b9/)
-[![Mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nithish232005@gmail.com)
-
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-ravikkumar-8491791b9/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithish232005@gmail.com)
+ 
 </div>
-
 ---
 
 ## `whoami`
 
-Second-year **Engineering Physics** undergrad at **IIT Roorkee** — building at the intersection of applied ML/DL, agentic AI, and robotics.
+A second year undergrad at IIT Roorkee — building at the intersection of applied ML/DL, agentic AI, and robotics.
 
 I don't chase the "best" or the "fastest" in isolation.  
-I care about **nailing the use case** — then optimizing the hell out of it.
+I care about nailing the use case — then optimizing the hell out of it.
 
 ```python
 nithish = {
-    "currently"  : "EP undergrad @ IIT Roorkee ('27)",
+    "Edu"  : "EP undergrad @ IIT Roorkee ('27)",
     "interests"  : ["agentic AI", "edge inference", "robotics & perception", "multimodal systems"],
     "reach me"   : "nithish232005@gmail.com"
 }
