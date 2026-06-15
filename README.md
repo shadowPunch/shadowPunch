@@ -48,7 +48,7 @@ nithish = {
 [![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-4A90D9?style=flat-square)](https://sbert.net/)
 [![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)](https://spacy.io/)
-[![NLTK](https://img.shields.io/badge/NLTK-natural_language-darkgreen)](https://www.nltk.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-darkgreen)](https://www.nltk.org/)
 
 **Data / Infra**
 
@@ -56,7 +56,7 @@ nithish = {
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 [![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Julia](https://img.shields.io/badge/language-Julia-9558B2?logo=julia)](https://julialang.org/)
+[![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia)](https://julialang.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
