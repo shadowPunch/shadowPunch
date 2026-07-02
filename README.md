@@ -10,22 +10,7 @@
 
 ## `whoami`
 
-A second year undergrad at IIT Roorkee — building at the intersection of applied ML/DL, agentic AI, and robotics.
-
-I don't chase the "best" or the "fastest" in isolation.  
-I care about nailing the use case — then optimizing the hell out of it.
-
-  
-```python
-nithish = {
-    "Edu"  : "EP undergrad @ IIT Roorkee ('27)",
-    "interests"  : ["agentic AI", "edge inference", "robotics & perception", "multimodal systems"],
-    "reach me"   : "nithish232005@gmail.com"
-}
-```
-<a href="https://www.linkedin.com/in/nithish-ravikkumar-8491791b9/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-</a>
+Final year undergrad at IIT Roorkee — building at the intersection of applied ML/DL, agentic AI, and robotics.
 
 ## what i'm into
 
